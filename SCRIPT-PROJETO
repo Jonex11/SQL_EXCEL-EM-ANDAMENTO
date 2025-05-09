@@ -9,9 +9,9 @@ Criei consulta complexa com múltiplos JOINs entre tabelas de fato e dimensões 
 Filtrei dados específicos (vendas apenas de 2013) 
 Calculei métricas chave como receita, custo e quantidade vendida 
 Transformação para Excel: ( Em andamento)
-Exportar os resultados para o Excel via SQL Server Management Studio 
-Utilizar o Power Query para tratamento e enriquecimento dos dados 
-Criar relações entre tabelas para modelo de dados robusto 
+Exportar os resultados para o Excel via SQL Server Management Studio ( Em andamento)
+Utilizar o Power Query para tratamento e enriquecimento dos dados ( Em andamento)
+Criar relações entre tabelas para modelo de dados robusto ( Em andamento)
 
 Visualização: 
 Desenvolver tabelas dinâmicas interativas com: 
